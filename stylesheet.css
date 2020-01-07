@@ -26,11 +26,17 @@ body{
   background-color: darkblue;
   color: white;
 }
+<<<<<<< HEAD
+=======
 p {
   border: solid #0FF365;
   margin: auto;
   max-width: 600px
 }
+<<<<<<< HEAD
 h1{
   margin: right;
 }
+=======
+>>>>>>> a961a0708646c3a5cbabeef5b8dcb739fea06545
+>>>>>>> ae39d4a5fc844be7ca13bc3cebb73d0ccbd6c2a1
