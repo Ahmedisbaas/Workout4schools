@@ -27,12 +27,7 @@ body{
   color: white;
 }
 p {
-<<<<<<< HEAD
-
-  border: solid
-=======
   border: solid #1DFFC7;
->>>>>>> 08a817bd2f1ae7100f9d30c0b3c8cc4a5e06671e
   margin: auto;
   max-width: 600px
 }
