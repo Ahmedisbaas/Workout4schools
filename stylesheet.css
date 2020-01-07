@@ -26,4 +26,6 @@
 }
 p {
   border: solid #e5ff00;
+  margin: auto;
+  max-width: 600px
 }
