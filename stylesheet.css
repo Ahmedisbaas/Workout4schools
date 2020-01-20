@@ -26,6 +26,6 @@ body{
   background-color: darkblue;
   color: white;}
   p {
-    border: 2px solid red;
-    border-radius: 5px;
+    border-right-style: double;
+    border-left-style: double;
   }
