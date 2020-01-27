@@ -1,5 +1,5 @@
 .topnav {
-  background-color: #0FD6F3;
+  background-color:  #1a66ff;
   overflow: hidden;
 }
 
@@ -13,7 +13,7 @@
   font-size: 17px;
 }
 body{
-  background-color: #00b8d8;
+  background-color: #3377ff;
 
 }
 /* Change the color of links on hover */
@@ -31,7 +31,7 @@ body{
     border-top-style: double;
     border-right-style: double;
     border-left-style: double;
-    background-color: #00b8d8;
+    background-color:  #1a66ff;
     width: 400px;
   }
   h3 {
@@ -40,7 +40,7 @@ body{
     border-top-style: solid;
     border-bottom-style: solid;
     border-width: thin;
-    background-color: #00b8d8;
+    background-color:  #1a66ff;
     width: 400px;
   }
   h2 {
@@ -49,7 +49,7 @@ body{
     border-top-style: solid;
     border-bottom-style: solid;
     border-width: thin;
-    background-color: #00b8d8;
+    background-color:  #1a66ff;
     width: 400px;
   }
 
