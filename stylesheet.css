@@ -14,6 +14,7 @@
 }
 body{
   background-color: #00b8d8;
+
 }
 /* Change the color of links on hover */
 .topnav a:hover {
@@ -26,8 +27,11 @@ body{
   background-color: darkblue;
   color: white;}
   p {
+    border-bottom-style: double;
+    border-top-style: double;
     border-right-style: double;
     border-left-style: double;
+    background-color: #00b8d8;
     width: 400px;
   }
   h3 {
@@ -36,6 +40,16 @@ body{
     border-top-style: solid;
     border-bottom-style: solid;
     border-width: thin;
+    background-color: #00b8d8;
+    width: 400px;
+  }
+  h2 {
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-width: thin;
+    background-color: #00b8d8;
     width: 400px;
   }
 
