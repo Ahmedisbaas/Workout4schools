@@ -24,10 +24,8 @@ body{
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: darkblue;
-  color: white;
-}
-p {
-  border: solid #1DFFC7;
-  margin: auto;
-  max-width: 600px
-}
+  color: white;}
+  p {
+    border-right-style: double;
+    border-left-style: double;
+  }
