@@ -55,7 +55,7 @@ body{
     border-bottom-style: solid;
     border-width: thin;
     background-color:  gray;
-    width: 400px;
+    width: 300px;
   }
   h1 {
     border-radius: 5px;
@@ -65,7 +65,7 @@ body{
     border-bottom-style: solid;
     border-width: thin;
     background-color: #00b8d8;
-    width: 400px;
+    width: 375px;
   }
   p {
   font-family: "Arial", Arial, sans-serif;
