@@ -1,9 +1,12 @@
 .topnav {
-  background-color:  #00b8d8;
+  background-color:  black;
   overflow: hidden;
+  border-bottom: solid;
+  border-style: solid;
+  border-color: green;
 }
 
-/* Style the links inside the navigation bar */
+
 .topnav a {
 
   float: left;
@@ -14,7 +17,7 @@
   font-size: 17px;
 }
 body{
-  background-color: #99cc00
+  background-color: gray;
 ;
 
 }
@@ -34,7 +37,7 @@ body{
     border-top-style: double;
     border-right-style: double;
     border-left-style: double;
-    background-color:  #00b8d8;
+    background-color:  #54cc47;
     width: 400px;
   }
   h3 {
@@ -44,7 +47,7 @@ body{
     border-top-style: solid;
     border-bottom-style: solid;
     border-width: thin;
-    background-color:  #00b8d8;
+    background-color:  #54cc47;
     width: 400px;
   }
   h2 {
@@ -54,7 +57,7 @@ body{
     border-top-style: solid;
     border-bottom-style: solid;
     border-width: thin;
-    background-color:  gray;
+    background-color:  #54cc47;
     width: 300px;
   }
   h1 {
@@ -64,7 +67,7 @@ body{
     border-top-style: solid;
     border-bottom-style: solid;
     border-width: thin;
-    background-color: #00b8d8;
+    background-color: #54cc47;
     width: 375px;
   }
   p {
